@@ -1,0 +1,26 @@
+[
+    {
+        "teacherId": 15,
+        "fullName": "Иванов Иван Иванович",
+        "cooperationType": "Самозанятый",
+        "deductionCoefficient": 0.06
+    },
+    {
+        "teacherId": 16,
+        "fullName": "Петрова Анна Сергеевна",
+        "cooperationType": "ИП",
+        "deductionCoefficient": 0.08
+    },
+    {
+        "teacherId": 17,
+        "fullName": "Сидорова Мария Алексеевна",
+        "cooperationType": "Штатный сотрудник",
+        "deductionCoefficient": 0.13
+    },
+    {
+        "teacherId": 18,
+        "fullName": "Смирнова Елена Викторовна",
+        "cooperationType": "Самозанятый",
+        "deductionCoefficient": 0.06
+    }
+]

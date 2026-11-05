@@ -1,0 +1,74 @@
+[
+  {
+    "teacherId": 15,
+    "date": "2026-09-05",
+    "hourRate": 1000,
+    "duration": 2,
+    "status": "Проведено",
+    "paymentCoefficient": 1,
+    "currency": "RUB"
+  },
+  {
+    "teacherId": 15,
+    "date": "2026-09-10",
+    "hourRate": 1000,
+    "duration": 1.5,
+    "status": "Проведено",
+    "paymentCoefficient": 1,
+    "currency": "RUB"
+  },
+  {
+    "teacherId": 15,
+    "date": "2026-09-15",
+    "hourRate": 1000,
+    "duration": 1,
+    "status": "Пропущено",
+    "paymentCoefficient": 0.5,
+    "currency": "RUB"
+  },
+  {
+    "teacherId": 16,
+    "date": "2026-09-08",
+    "hourRate": 1200,
+    "duration": 2,
+    "status": "Проведено",
+    "paymentCoefficient": 1,
+    "currency": "RUB"
+  },
+  {
+    "teacherId": 16,
+    "date": "2026-09-12",
+    "hourRate": 1200,
+    "duration": 1,
+    "status": "Проведено",
+    "paymentCoefficient": 1,
+    "currency": "RUB"
+  },
+  {
+    "teacherId": 17,
+    "date": "2026-09-06",
+    "hourRate": 900,
+    "duration": 2,
+    "status": "Проведено",
+    "paymentCoefficient": 1,
+    "currency": "RUB"
+  },
+  {
+    "teacherId": 17,
+    "date": "2026-09-13",
+    "hourRate": 900,
+    "duration": 1,
+    "status": "Пропущено",
+    "paymentCoefficient": 0,
+    "currency": "RUB"
+  },
+  {
+  "teacherId": 15,
+  "date": "2026-09-05",
+  "hourRate": 20,
+  "duration": 1,
+  "status": "Проведено",
+  "paymentCoefficient": 1,
+  "currency": "USD"
+}
+]
